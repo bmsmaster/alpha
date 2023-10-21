@@ -1,0 +1,39 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "7b2918220b531560ba243023633cfebe",
+      "info": {
+        "title": "Lifetime Showtime (Looktime Remix)",
+        "artist": "FUWAMOCO remixed by BMS Chart Master",
+        "genre": "Hololive Remixes",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 11
+      },
+      "noteCount": 753,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 97.66666666666667,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart.bmson"
+    }
+  ],
+  "title": "Lifetime Showtime (Looktime Remix)",
+  "artist": "FUWAMOCO remixed by BMS Chart Master",
+  "genre": "Hololive Remixes",
+  "bpm": 180,
+  "replaygain": "-11.92 dB",
+  "preview_offset": 53.333,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/bms-chart-master/ls-bms",
+  "bms_url": "https://drive.google.com/file/d/1OhaKZ-h2nsp4NrICaRvwQclrHDwgp8iF/view",
+  "bmssearch_id": "3SkwkvuqYGMnOG",
+  "readme": "README.md"
+}
