@@ -1,0 +1,36 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "21a3255948436d6d6dae669d3ec0bc60",
+      "info": {
+        "title": "みくみくにしてあげる♪【してやんよ】",
+        "artist": "ika-mo",
+        "genre": "Vocaloid",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 519,
+      "bpm": {
+        "init": 160,
+        "min": 160,
+        "median": 160,
+        "max": 160
+      },
+      "duration": 97.3125,
+      "scratch": true,
+      "keys": "7K",
+      "file": "mikumiku.bmson"
+    }
+  ],
+  "title": "みくみくにしてあげる♪【してやんよ】",
+  "artist": "ika-mo",
+  "genre": "Vocaloid",
+  "bpm": 160,
+  "replaygain": "1.41 dB",
+  "preview_offset": 37.4,
+  "preview_url": "bemuse-data/preview.mp3",
+  "readme": "README.md"
+}
