@@ -1,0 +1,97 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "359c970cb266b5f59e8251d1d8acf822",
+      "info": {
+        "title": "nutty trip",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "Chip'le Pop'n",
+        "subtitles": [
+          "7key Normal"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 304,
+      "bpm": {
+        "init": 124,
+        "min": 124,
+        "median": 124,
+        "max": 124
+      },
+      "duration": 102.5806451612903,
+      "scratch": true,
+      "keys": "7K",
+      "file": "nutty_trip_[7-4_Normal].bme"
+    },
+    {
+      "md5": "b11117de8b352be041111af53dd0d943",
+      "info": {
+        "title": "nutty trip",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "Chip'le Pop'n",
+        "subtitles": [
+          "7key Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 603,
+      "bpm": {
+        "init": 124,
+        "min": 124,
+        "median": 124,
+        "max": 124
+      },
+      "duration": 102.5806451612903,
+      "scratch": true,
+      "keys": "7K",
+      "file": "nutty_trip_[7-8_Hyper].bme"
+    },
+    {
+      "md5": "ee7138a8c97135f9f635ea86748f6f7e",
+      "info": {
+        "title": "nutty trip",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "Chip'le Pop'n",
+        "subtitles": [
+          "7key Another"
+        ],
+        "subartists": [
+          "Movie : YABILITY, retu"
+        ],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 905,
+      "bpm": {
+        "init": 124,
+        "min": 124,
+        "median": 124,
+        "max": 124
+      },
+      "duration": 102.5806451612903,
+      "scratch": true,
+      "keys": "7K",
+      "file": "nutty_trip_[7-A_Another].bme"
+    }
+  ],
+  "title": "nutty trip",
+  "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+  "genre": "Chip'le Pop'n",
+  "bpm": 124,
+  "replaygain": "-9.74 dB",
+  "preview_offset": 50.322,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=XYg0VhcLLCU",
+  "bmssearch_id": "SuW8aAj_v8WHd0",
+  "artist_url": "https://aliesrite.com/",
+  "readme": "README.md",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1.935
+}
